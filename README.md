@@ -1,1 +1,1 @@
-## Persisting theme on localStorage.
+## Persisting theme in localStorage.
